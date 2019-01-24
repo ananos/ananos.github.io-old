@@ -3,29 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ananos.github.io/posts/my-first-post/</loc>
-    <lastmod>2019-01-23T23:52:46+02:00</lastmod>
+    <loc>https://ananos.github.io/about/about/</loc>
+    <lastmod>2019-01-24T02:52:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ananos.github.io/categories/</loc>
+    <loc>https://ananos.github.io/about/</loc>
+    <lastmod>2019-01-24T02:52:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ananos.github.io/posts/</loc>
-    <lastmod>2019-01-23T23:52:46+02:00</lastmod>
+    <loc>https://ananos.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ananos.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ananos.github.io/</loc>
-    <lastmod>2019-01-23T23:52:46+02:00</lastmod>
+    <loc>https://ananos.github.io/</loc>
+    <lastmod>2019-01-24T02:52:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
